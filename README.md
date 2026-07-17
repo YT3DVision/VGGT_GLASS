@@ -8,10 +8,6 @@ Our method first distills rich 3D priors from the visual geometry grounded trans
 a Frequency Self-Attention Module (FSAM) that identifies glass-specific spectral features for glass surface localization, and a Geometry Grounding Block (GeGB) that selectively grounds 2D features in 3D geometry for glass surface segmentation.
 Extensive experiments demonstrate that our method achieves state-of-the-art performance across seven standard GSD benchmarks, generalizes well to video/multi-modal data, and substantially improves reconstruction in glass scenes.
 
-## Pipeline
-
-![Netowrk](picture/overview2.png)
-
 
 ## To Do
 
