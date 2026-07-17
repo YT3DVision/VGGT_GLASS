@@ -1,4 +1,4 @@
-# (ACMMM 2026) Glass Surface Detection Grounded in 3D Visual Geometry
+#Glass Surface Detection Grounded in 3D Visual Geometry
 
 ## Abstract
 
@@ -9,9 +9,9 @@ a Frequency Self-Attention Module (FSAM) that identifies glass-specific spectral
 Extensive experiments demonstrate that our method achieves state-of-the-art performance across seven standard GSD benchmarks, generalizes well to video/multi-modal data, and substantially improves reconstruction in glass scenes.
 
 
-## To Do
+## Proceeding
 
-We will improve the project as soon as possible.
+This paper has been acceoted by ACMM Multimedia 2026.
 
 ## Acknowledgements
 
