@@ -1,6 +1,6 @@
 # Glass Surface Detection Grounded in 3D Visual Geometry
 
-## Aurhors: Yiwei Lu, Ke Xu, Tao Yan, Xiaojun Chang, Radu Timofte, Rynson W. H. Lau
+### Aurhors: Yiwei Lu, Ke Xu, Tao Yan, Xiaojun Chang, Radu Timofte, Rynson W. H. Lau
 
 ## Abstract
 
